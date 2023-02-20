@@ -22,9 +22,9 @@ This code snippet will create a new user within Active Directory and executes th
     "Surname": "",
     "Description": "",
     "UserPrincipalName": "",
-    "GivenName": "Kevin",
-    "Name": "Kevin Sapp",
-    "Title": "CEO",
+    "GivenName": "",
+    "Name": "",
+    "Title": "",
     "SamAccountName": "",
     "AccountPassword": "",
     "Enabled": true
